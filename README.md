@@ -6,7 +6,7 @@ Example of setting up a github repo for your projects.
 
 - [Code example repo](https://github.com/wadehuber/codeexamples)
 - [CGCC-CS GitHub page](https://github.com/CGCC-CS)
-- [Video](https://www.youtube.com)
+- [Video](https://youtu.be/oYJ-EraavnU)
 
 ## Tips
 
